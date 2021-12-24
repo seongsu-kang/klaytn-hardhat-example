@@ -1,0 +1,1 @@
+export const deployedContracts = ['MyContract0', 'MyContract1'];
